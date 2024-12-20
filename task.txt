@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 online business
 off line business
+=======
+deliver the product
+improvement
+>>>>>>> feature
